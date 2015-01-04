@@ -1,0 +1,12 @@
+data/Utility.cpp.i
+data/Utility.h.i
+data/Print.cpp.i
+data/M2XStreamClient.cpp.i
+data/LocationParseFunctions.h.i
+data/NullPrint.h.i
+data/Client.h.i
+data/Client.cpp.i
+data/Print.h.i
+data/M2XStreamClient.h.i
+data/StreamParseFunctions.h.i
+data/M2XStreamClient_template.h.i
